@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210) (preloaded format=pdflatex 2017.2.26)  26 FEB 2017 17:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210) (preloaded format=pdflatex 2017.2.26)  26 FEB 2017 22:02
 entering extended mode
 **./main.tex
 (main.tex
@@ -388,17 +388,42 @@ Overfull \hbox (118.62868pt too wide) in paragraph at lines 7--10
  [][] 
  []
 
+! Missing { inserted.
+<to be read again> 
+                   \begingroup 
+l.27 ... Герона: $ S = \sqrt{p(p-L_a)(p-L_b)(p-L_с
+                                                  )} $, где $p=(L_a+L_b+L_c)...
+A left brace was mandatory here, so I've put one in.
+You might want to delete and/or insert some corrections
+so that I will find a matching right brace soon.
+(If you're confused by all this, try typing `I}' now.)
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 27.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.27 ...она: $ S = \sqrt{p(p-L_a)(p-L_b)(p-L_с)} $
+                                                  , где $p=(L_a+L_b+L_c)/2$....
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no с in font cmr8!
 [3
 
  <./img_source/pict.jpg>]) [4] (main.aux (title_page.aux) (work.aux)) ) 
 Here is how much of TeX's memory you used:
  4220 strings out of 493333
  54807 string characters out of 3139167
- 130795 words of memory out of 10000000
+ 132795 words of memory out of 10000000
  7626 multiletter control sequences out of 15000+200000
  25882 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,5n,26p,1145b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 39i,5n,26p,1137b,225s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/User
 s/Р•РІРіРµРЅРёР№/AppData/Roaming/MiKTeX/2.9/fonts/enc/t2/t2a.enc}<C:/Program Fi
 les/MiKTeX 2.9/fonts/type1/public/pscyr/antiq6.pfb><C:/Program Files/MiKTeX 2.9
@@ -413,7 +438,7 @@ les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX
 ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
 msfonts/symbols/msam10.pfb>
-Output written on main.pdf (4 pages, 195510 bytes).
+Output written on main.pdf (4 pages, 195211 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
